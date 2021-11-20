@@ -11,6 +11,8 @@ just type 'dotnet run' in conlose
 
 ![alt text](https://raw.githubusercontent.com/Hamid-Najafi/KNXSerialPacketParser/master/pics/Screenshot%201.png)
 
+## Disclaimer
+The purpose of this repository is to provide DIY'ers with the means to create product for their own purposes.
 
 ## Furture work:
 add support for unknown ETS NCD programmming packets and ACKs.
